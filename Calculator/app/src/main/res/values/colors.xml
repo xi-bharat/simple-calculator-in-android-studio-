@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blgr">#7393B3</color>
+    <color name="asgr">#B2BEB5</color>
+    <color name="pewter">#899499</color>
+    <color name="platinum">#C0C0C0</color>
+    <color name="scarletred">#FF2400</color>
+    <color name="greenpistachio">#93C572</color>
+    <color name="coralpink">#F88379</color>
+    <color name="stgr">#71797E</color>
+
+</resources>
